@@ -1,0 +1,81 @@
+PatientID,Age,Gender,Diagnosis,Treatment,Outcome,AdmissionDate,DischargeDate,Medication1,Medication2,Cost
+1,45,Female,Diabetes,Insulin,Improved,2022-01-01,2022-01-10,Metformin,Lisinopril,5000
+2,32,Male,Hypertension,Beta-Blocker,Stable,2022-02-05,2022-02-15,Aspirin,Atorvastatin,3000
+3,68,Female,Heart Disease,Angiotensin Receptor Blocker,Deteriorated,2022-03-12,2022-04-02,Warfarin,Isosorbide Mononitrate,8000
+4,50,Male,COPD,Bronchodilator,Improved,2022-04-18,2022-04-30,Theophylline,Inhaled Corticosteroid,6000
+5,28,Female,Allergy,Antihistamine,Stable,2022-05-22,2022-05-30,EpiPen,Intranasal Corticosteroid,2000
+6,60,Male,Arthritis,NSAID,Improved,2022-06-10,2022-06-25,Methotrexate,Prednisone,7000
+7,42,Female,Depression,SSRI,Stable,2022-07-15,2022-07-28,Psychotherapy,Bupropion,4500
+8,75,Male,Osteoporosis,Bisphosphonate,Deteriorated,2022-08-20,2022-09-05,Calcium Supplement,Vitamin D,5500
+9,35,Female,Migraine,Triptan,Improved,2022-09-22,2022-09-30,Beta-Blocker,Magnesium,3500
+10,55,Male,Obesity,Diet and Exercise,Stable,2022-10-05,2022-10-18,Orlistat,Phentermine,4000
+11,48,Female,Cancer,Chemotherapy,Deteriorated,2022-11-01,2022-11-20,Radiation Therapy,Immunotherapy,10000
+12,31,Male,Anxiety,Benzodiazepine,Improved,2022-12-05,2022-12-15,Selective Serotonin Reuptake Inhibitor,Psychotherapy,4800
+13,70,Female,Stroke,Physical Therapy,Deteriorated,2023-01-10,2023-01-28,Anticoagulant,Statins,7500
+14,38,Male,Type 2 Diabetes,Oral Antidiabetic,Improved,2023-02-15,2023-02-28,SGLT2 Inhibitor,Glipizide,5200
+15,58,Female,Kidney Disease,ACE Inhibitor,Deteriorated,2023-03-20,2023-04-10,Diuretic,Phosphorus Binder,9000
+16,40,Male,Asthma,Inhaled Corticosteroid,Stable,2023-04-25,2023-05-05,Bronchodilator,Leukotriene Inhibitor,4200
+17,67,Female,Alzheimer's Disease,Cholinesterase Inhibitor,Deteriorated,2023-05-30,2023-06-15,Memoaid,Namenda,8800
+18,44,Male,Chronic Kidney Disease,Diuretic,Improved,2023-06-28,2023-07-10,ACE Inhibitor,ARB,6500
+19,33,Female,Hyperthyroidism,Antithyroid Medication,Stable,2023-07-15,2023-07-30,Beta-Blocker,Calcium Channel Blocker,3000
+20,62,Male,Rheumatoid Arthritis,DMARD,Improved,2023-08-20,2023-09-05,Corticosteroid,TNF Inhibitor,7800
+21,46,Female,Chronic Pain,Opioids,Stable,2023-09-10,2023-09-25,Physical Therapy,NSAID,4200
+22,29,Male,ADHD,Stimulant,Improved,2023-10-05,2023-10-18,Non-Stimulant Medication,Counseling,3500
+23,72,Female,Chronic Fatigue Syndrome,SSRI,Stable,2023-11-01,2023-11-20,Sleep Medication,Exercise Therapy,4300
+24,49,Male,Psoriasis,Topical Treatment,Improved,2023-12-05,2023-12-15,Phototherapy,Oral Medication,6000
+25,36,Female,Irritable Bowel Syndrome,Dietary Changes,Stable,2024-01-10,2024-01-28,Fiber Supplement,Probiotics,3200
+26,64,Male,Parkinson's Disease,Dopamine Agonist,Deteriorated,2024-02-15,2024-02-28,Levodopa,MAO-B Inhibitor,8700
+27,41,Female,GERD,Proton Pump Inhibitor,Improved,2024-03-20,2024-04-10,Antacid,H2 Blocker,4200
+28,54,Male,Sleep Apnea,CPAP,Stable,2024-04-25,2024-05-05,Weight Loss,Positional Therapy,3800
+29,69,Female,Ovarian Cancer,Chemotherapy,Deteriorated,2024-05-30,2024-06-15,Radiation Therapy,Hormone Therapy,9500
+30,39,Male,Lupus,Hydroxychloroquine,Improved,2024-06-28,2024-07-10,Immunosuppressant,NSAID,5400
+31,47,Female,Type 1 Diabetes,Insulin Pump,Stable,2024-07-15,2024-07-30,Continuous Glucose Monitor,Lisinopril,6200
+32,34,Male,Anemia,Iron Supplement,Improved,2024-08-20,2024-09-05,Vitamin B12,Folic Acid,2800
+33,63,Female,Colon Cancer,Chemotherapy,Deteriorated,2024-09-10,2024-09-25,Radiation Therapy,Surgery,9800
+34,37,Male,Hypercholesterolemia,Statins,Stable,2024-10-05,2024-10-18,Ezetimibe,Healthy Diet,4100
+35,56,Female,Epilepsy,Antiepileptic Drug,Improved,2024-11-01,2024-11-20,Ketogenic Diet,Neurostimulation,5500
+36,30,Male,Chronic Hepatitis C,Antiviral Medication,Stable,2024-12-05,2024-12-15,Liver Transplant,Hepatitis A Vaccine,7200
+37,71,Female,Interstitial Lung Disease,Oxygen Therapy,Deteriorated,2025-01-10,2025-01-28,Corticosteroid,Immunosuppressant,8800
+38,45,Male,Thyroid Cancer,Thyroidectomy,Improved,2025-02-15,2025-02-28,Thyroid Hormone Replacement,Radioactive Iodine,6700
+39,31,Female,Schizophrenia,Atypical Antipsychotic,Stable,2025-03-20,2025-04-10,Psychosocial Therapy,Support Group,4800
+40,59,Male,Bladder Cancer,Chemotherapy,Deteriorated,2025-04-25,2025-05-05,Immunotherapy,Cystectomy,9500
+41,48,Female,Pulmonary Fibrosis,Oxygen Therapy,Improved,2025-05-30,2025-06-15,Nintedanib,Pirfenidone,8300
+42,35,Male,Fibromyalgia,Physical Therapy,Stable,2025-06-28,2025-07-10,Analgesic Medication,Antidepressant,3800
+43,73,Female,Pancreatic Cancer,Chemotherapy,Deteriorated,2025-07-15,2025-07-30,Radiation Therapy,Whipple Procedure,10200
+44,40,Male,Gout,NSAID,Improved,2025-08-20,2025-09-05,Colchicine,Allopurinol,4200
+45,32,Female,Endometriosis,Hormonal Therapy,Stable,2025-09-22,2025-09-30,NSAID,Oral Contraceptive,3500
+46,60,Male,Chronic Bronchitis,Bronchodilator,Improved,2025-10-05,2025-10-18,Inhaled Corticosteroid,Flu Vaccination,4600
+47,44,Female,Gastric Ulcer,Proton Pump Inhibitor,Stable,2025-11-01,2025-11-20,H2 Blocker,Antacid,3100
+48,33,Male,HIV/AIDS,Antiretroviral Therapy,Deteriorated,2025-12-05,2025-12-15,Preventive Vaccinations,PrEP,7500
+49,61,Female,Myocardial Infarction,Beta-Blocker,Improved,2026-01-10,2026-01-28,Aspirin,Statin,5800
+50,36,Male,Polycystic Ovary Syndrome,Birth Control Pills,Stable,2026-02-15,2026-02-28,Weight Loss,Metformin,3400
+51,50,Female,Ankylosing Spondylitis,NSAID,Improved,2026-03-20,2026-04-10,Physical Therapy,DMARD,4700
+52,29,Male,Type 2 Diabetes,Insulin,Stable,2026-04-25,2026-05-05,Metformin,Liraglutide,5000
+53,68,Female,Lung Cancer,Chemotherapy,Deteriorated,2026-05-30,2026-06-15,Radiation Therapy,Immunotherapy,9600
+54,42,Male,Chronic Gastritis,Proton Pump Inhibitor,Improved,2026-06-28,2026-07-10,Antacid,H2 Blocker,3300
+55,31,Female,Osteoarthritis,Analgesic Medication,Stable,2026-07-15,2026-07-30,Physical Therapy,Joint Injections,4200
+56,64,Male,Prostate Cancer,Chemotherapy,Deteriorated,2026-08-20,2026-09-05,Hormone Therapy,Surgery,9200
+57,39,Female,Crohn's Disease,Immunosuppressant,Improved,2026-09-22,2026-09-30,Corticosteroid,Anti-TNF Drug,5400
+58,53,Male,Peripheral Artery Disease,Antiplatelet Medication,Stable,2026-10-05,2026-10-18,Statins,Blood Pressure Control,4800
+59,70,Female,Multiple Sclerosis,Immunomodulator,Deteriorated,2026-11-01,2026-11-20,Corticosteroid,Physical Therapy,7700
+60,46,Male,Acute Renal Failure,Dialysis,Improved,2026-12-05,2026-12-15,Kidney Transplant,EPO Injections,11000
+61,43,Female,Lupus,Immunosuppressant,Stable,2027-01-10,2027-01-28,Corticosteroid,NSAID,4300
+62,33,Male,Obsessive-Compulsive Disorder,SSRI,Improved,2027-02-15,2027-02-28,Cognitive Behavioral Therapy,Exposure and Response Prevention,3600
+63,69,Female,Atrial Fibrillation,Anticoagulant,Improved,2027-03-20,2027-04-10,Beta-Blocker,Cardioversion,5900
+64,35,Male,Gastroesophageal Reflux Disease,Proton Pump Inhibitor,Stable,2027-04-25,2027-05-05,H2 Blocker,Healthy Diet,3400
+65,54,Female,Chronic Lymphocytic Leukemia,Chemotherapy,Deteriorated,2027-05-30,2027-06-15,Immunotherapy,Stem Cell Transplant,9400
+66,41,Male,Major Depressive Disorder,SSRI,Improved,2027-06-28,2027-07-10,Counseling,Electroconvulsive Therapy,4800
+67,72,Female,Rheumatoid Arthritis,DMARD,Stable,2027-07-15,2027-07-30,Corticosteroid,NSAID,5200
+68,47,Male,Chronic Obstructive Pulmonary Disease,Bronchodilator,Improved,2027-08-20,2027-09-05,Inhaled Corticosteroid,Pulmonary Rehabilitation,5800
+69,32,Female,Type 2 Diabetes,Oral Antidiabetic,Improved,2027-09-22,2027-09-30,Metformin,SGLT2 Inhibitor,3900
+70,58,Male,Alzheimer's Disease,Cholinesterase Inhibitor,Deteriorated,2027-10-05,2027-10-18,Memantine,Occupational Therapy,7700
+71,44,Female,Multiple Myeloma,Chemotherapy,Deteriorated,2027-11-01,2027-11-20,Stem Cell Transplant,Bone Marrow Transplant,8900
+72,37,Male,Hypothyroidism,Thyroid Hormone Replacement,Improved,2027-12-05,2027-12-15,Levothyroxine,Iodine Supplement,3100
+73,63,Female,Pulmonary Embolism,Anticoagulant,Improved,2028-01-10,2028-01-28,Thrombolytic Therapy,Inferior Vena Cava Filter,6500
+74,39,Male,Celiac Disease,Gluten-Free Diet,Stable,2028-02-15,2028-02-28,Vitamin and Mineral Supplements,Immune Modulators,4200
+75,50,Female,Major Depressive Disorder,SNRI,Improved,2028-03-20,2028-04-10,Psychotherapy,Transcranial Magnetic Stimulation,4900
+76,36,Male,Non-Alcoholic Fatty Liver Disease,Weight Loss,Stable,2028-04-25,2028-05-05,Healthy Diet,Exercise,3800
+77,66,Female,Bipolar Disorder,Mood Stabilizer,Improved,2028-05-30,2028-06-15,Psychotherapy,Electroconvulsive Therapy,5700
+78,42,Male,Hypertension,ACE Inhibitor,Stable,2028-06-28,2028-07-10,Beta-Blocker,Diuretic,3200
+79,31,Female,Chronic Migraine,Preventive Medication,Improved,2028-07-15,2028-07-30,Triptan,Pain Management,4400
+80,59,Male,Liver Cirrhosis,Diuretic,Improved,2028-08-20,2028-09-05,Lactulose,Beta-Blocker,6700
